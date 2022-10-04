@@ -5,12 +5,24 @@ a {
 
 .background {
   background-image: linear-gradient(#EDF1EE, white, lightblue, white, #EDF1EE);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
-
+.links-card {
+  background-color: lightblue;
+  height: 90vh;
+  width: 350px;
+  max-width: 80%;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
 .img-wrap {
-  padding-top: 5vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,43 +42,30 @@ a {
 }
 .para {
   margin: 0;
-  margin-top: 1.8vh;
   font-size: 2.5vh;
   text-align: center;
 }
 
-.menu {
-  margin: 0;
-  display: flex;
-  height: 56.7vh;
-  align-items: center;
-  justify-content: center;
-}
-
 .links {
-  background-color: transparent;
-  border-radius: 10px;
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  height: 89%;
-  width: 30%;
+  align-items: center;
 }
 
 .link {
   background-color: white;
-  width: 70%;
+  width: 90%;
   border-radius: 5px;
   cursor: pointer;
-  margin: auto;
-  padding: 0.1%;
-  color: black;
-  text-decoration: none;
+  margin: 1%;
+  margin-left: 0;
+  margin-right: 0;
+  height: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
   font-weight: bold;
-  outline: solid lightgrey 0.1px;
 }
 

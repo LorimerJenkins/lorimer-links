@@ -6,15 +6,20 @@ function App() {
   return (
     <div class ='background'>
 
-      <div class='img-wrap'>
-        <img src={logo} class='image'/>
-      </div>
 
 
-      <h1 class='title'><a href='/'>Lorimer Jenkins</a></h1>
-      <p class='para'>Building <a target='_blank' href='https://wallety.org'>Wallety</a></p>
+      <div class='links-card'>
+        
+    
+        <div class='img-wrap'>
+          <img src={logo} class='image'/>
+        </div>
 
-      <div class='menu'>
+
+        <h1 class='title'><a href='/'>Lorimer Jenkins</a></h1>
+        <p class='para'>Building <a target='_blank' href='https://wallety.org'>Wallety</a></p>
+
+
 
         <div class='links'>
 
@@ -37,7 +42,12 @@ function App() {
         </div>
 
 
+
+
       </div>
+
+
+
 
     </div>
 
