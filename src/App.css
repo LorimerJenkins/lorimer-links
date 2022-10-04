@@ -22,7 +22,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  outline: solid 1px black;
+  outline: solid 1px lightgrey;
 }
 
 .img-wrap {
@@ -35,7 +35,8 @@ a {
 .image {
   height: 30vh;
   border-radius: 50%;
-  outline: solid 1px black;
+  outline: solid 1px lightgrey;
+  margin-top: 10px;
 }
 
 
@@ -43,6 +44,7 @@ a {
   margin: 0;
   font-size: 4vh;
   text-align: center;
+  margin-top: 10px;
 }
 .para {
   margin: 0;
@@ -71,5 +73,6 @@ a {
   justify-content: center;
   align-items: center;
   font-weight: bold;
+  outline: solid 1px lightgrey;
 }
 
