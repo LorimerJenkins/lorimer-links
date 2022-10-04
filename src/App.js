@@ -5,20 +5,14 @@ function App() {
   return (
     <div class ='background'>
 
-
-
       <div class='links-card'>
         
-    
         <div class='img-wrap'>
           <img src={logo} class='image'/>
         </div>
 
-
         <h1 class='title'><a href='/'>Lorimer Jenkins</a></h1>
-        <p class='para'>A W3 Dev/Enthusiast</p>
-
-
+        <p class='para'>A Web3 Dev/Enthusiast</p>
 
         <div class='links'>
           <a href='mailto:lorimer@wallety.org' class='link'>Email</a>
@@ -34,18 +28,10 @@ function App() {
           <a href='https://opensea.io/Lorimer_Jenkins' class='link' target='_blank'>Lorimer.eth</a>
         </div>
 
-
-
-
       </div>
-
-
-
 
     </div>
 
   );
-
 }
-
 export default App;
