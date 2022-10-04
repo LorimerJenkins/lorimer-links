@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lorimerjenkins.com
+Token: fb69c0e694d6c0fe2deff51bafb9561b5457a04306b3fd8222cb06515ef52a9d

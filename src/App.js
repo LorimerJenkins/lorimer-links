@@ -11,7 +11,7 @@ function App() {
       </div>
 
 
-      <h1 class='title'>Lorimer Jenkins</h1>
+      <h1 class='title'><a href='/'>Lorimer Jenkins</a></h1>
       <p class='para'>Building <a target='_blank' href='https://wallety.org'>Wallety</a></p>
 
       <div class='menu'>
