@@ -1,3 +1,4 @@
+
 a {
   color: black;
   text-decoration: none;
@@ -9,6 +10,7 @@ a {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .links-card {
@@ -20,6 +22,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  outline: solid 1px black;
 }
 
 .img-wrap {
@@ -32,6 +35,7 @@ a {
 .image {
   height: 30vh;
   border-radius: 50%;
+  outline: solid 1px black;
 }
 
 
