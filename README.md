@@ -101,3 +101,7 @@ and scripts into the app directory. If you do this, you can’t go back!
 
 //
 when creating a new app func .js file, rfc
+
+
+// test build on server
+serve -s build
