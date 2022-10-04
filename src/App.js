@@ -31,7 +31,7 @@ function App() {
           <a href='https://matrix.to/#/@lorimer:matrix.org' class='link' target='_blank'>Element</a>
           <a href='https://www.instagram.com/lorimer_jenkins/' class='link' target='_blank'>Instagram</a>
           <a href='https://lorimerjenkins.medium.com/' class='link' target='_blank'>Medium</a>
-          <a href='https://etherscan.io/address/0xe095dd9bae4994aaaf58725d5fd011288537508f' class='link' target='_blank'>Lorimer.eth</a>
+          <a href='https://opensea.io/Lorimer_Jenkins' class='link' target='_blank'>Lorimer.eth</a>
         </div>
 
 
