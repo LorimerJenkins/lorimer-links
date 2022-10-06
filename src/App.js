@@ -20,6 +20,8 @@ function App() {
           <a href='https://calendly.com/lorimerjenkins' class='link' target='_blank'>Calendly</a>
           <a href='https://twitter.com/lorimer_jenkins' class='link' target='_blank'>Twitter</a>
           <a href='https://github.com/LorimerJenkins' class='link' target='_blank'>GitHub</a>
+          <a href='https://nonameprotocol.com' class='link' target='_blank'>The No Name Protocol</a>
+          <a href='https://wallety.org' class='link' target='_blank'>Wallety</a>
           <a href='https://keys.mailvelope.com/pks/lookup?op=get&search=lorimer@wallety.org' class='link' target='_blank'>PGP Key</a>
           <a href='https://www.linkedin.com/in/lorimerjenkins/' class='link' target='_blank'>LinkedIn</a>
           <a href='https://matrix.to/#/@lorimer:matrix.org' class='link' target='_blank'>Element</a>
