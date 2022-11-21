@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.df7389b3.css",
-    "main.js": "/static/js/main.26544afc.js",
-    "static/media/nft.svg": "/static/media/nft.86bc9a5bf91bd961a6414eaa776d1cd0.svg",
+    "main.css": "/static/css/main.c43b19d4.css",
+    "main.js": "/static/js/main.1705e9e5.js",
+    "static/media/lorimer.JPG": "/static/media/lorimer.a9cc4052d551d623ae94.JPG",
     "index.html": "/index.html",
-    "main.df7389b3.css.map": "/static/css/main.df7389b3.css.map",
-    "main.26544afc.js.map": "/static/js/main.26544afc.js.map"
+    "main.c43b19d4.css.map": "/static/css/main.c43b19d4.css.map",
+    "main.1705e9e5.js.map": "/static/js/main.1705e9e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.df7389b3.css",
-    "static/js/main.26544afc.js"
+    "static/css/main.c43b19d4.css",
+    "static/js/main.1705e9e5.js"
   ]
 }
